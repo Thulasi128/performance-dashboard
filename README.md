@@ -1,5 +1,7 @@
 # Performance-Critical Data Visualization Dashboard
 
+🚀 **Live Demo:** [https://performance-dashboard-omega-ten.vercel.app](https://performance-dashboard-omega-ten.vercel.app)
+
 A high-performance real-time data visualization dashboard built with **Next.js 14+ (App Router)**, **TypeScript**, and **Canvas API**. Capable of handling and rendering 10,000+ data points simultaneously while maintaining a smooth 60 FPS target.
 
 ## Setup Instructions
