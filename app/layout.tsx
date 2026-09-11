@@ -13,7 +13,14 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        <div className="dashboard-layout">
+          <header className="dashboard-header">
+            <h1>Nexus Performance Dashboard</h1>
+          </header>
+          {children}
+        </div>
+      </body>
     </html>
   );
 }
